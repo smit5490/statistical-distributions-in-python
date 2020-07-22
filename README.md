@@ -1,8 +1,8 @@
 # statistical-distributions-in-python
-Python package for statistical distributions
+Python package for statistical distributions available Pypi.
 
 ## Python Files in statdist Package
-- *Generaldistribution.py*: Contains basic attributes of all both distributions.
+- *Generaldistribution.py*: Contains basic attributes of all distributions.
 - *Gaussiandistribution.py*: Instantiate and explore gaussian probability distributions.
 - *Binomialdistribution.py*: Instantiate and explore binomial probability distributions.
 
@@ -11,5 +11,5 @@ Download from pip:
 
 `pip install statdist`
 
-Note: The skeleton of this package was provided in Udacity's Data Science Nanodegree program. 
-I have extended its capabilities and used pytest to perform unit tests.  
+Note: I created the skeleton of this package as part of Udacity's Data Science Nanodegree program. 
+Since then, I have extended its capabilities and used pytest to perform unit tests.  
