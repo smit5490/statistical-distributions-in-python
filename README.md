@@ -1,5 +1,8 @@
-# statistical-distributions-in-python
-Python package for statistical distributions available Pypi.
+# Statistical Distributions in Python
+**Author**: Robert Smith
+
+Github repository for the `statdist` Python package available on Pypi. This package contains code
+for the gaussian and binomial distributions.  
 
 ## Python Files in statdist Package
 - *Generaldistribution.py*: Contains basic attributes of all distributions.
